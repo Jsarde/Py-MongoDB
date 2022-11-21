@@ -9,13 +9,13 @@ E' possibile ricercare un concerto in base ai seguenti filtri (anche contemporan
   5. Data 
   6. Distanza dal proprio indirizzo (GeoQuery)
 
->: I concerti vengono mostrati solamente se sono ancora disponibili dei biglietti
->: per effetturare la GeoQuery, viene richiesto all'utente di inserire un indirizzo e la distanza massima (in metri) tra esso e i concerti disponibili
+I concerti vengono mostrati solamente se sono ancora disponibili dei biglietti
+Per effetturare la GeoQuery, viene richiesto all'utente di inserire un indirizzo e la distanza massima (in metri) tra esso e i concerti disponibili
 
 
 Per acquistare i biglietti dei concerti bisogna indicare:
   - Codice del concerto
-  - Numero di biglietti 
+  - Numero di biglietti da acquistare
 
 
 NB. 
